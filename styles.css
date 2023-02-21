@@ -42,7 +42,7 @@ ul {
 	color: #4d5ae5;
 }
 
-/* delating outlines  */
+/* delating outlines of the links  */
 a {
 	text-decoration: none;
 }
@@ -83,6 +83,11 @@ a {
 
 h1 {
 	color: #fff;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 56px;
+	line-height: 1.07;
+	letter-spacing: 0.02em;
 }
 
 .hero-section-button {
